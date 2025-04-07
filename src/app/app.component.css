@@ -1,0 +1,21 @@
+.devops-container {
+    padding: 20px;
+    background-color: #f0f4f8;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #007bff;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
